@@ -1,4 +1,4 @@
-## Opa eu sou o Weydson Bruno, Desenvoldedor Frontend Web!
+## Opa eu sou o Bruno, Desenvoldedor Frontend Web!
 <br>
   
 - 🏛  Estou no 2º Período do curso: Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL)
