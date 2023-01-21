@@ -1,9 +1,17 @@
 ## Opa eu sou o Weydson Bruno, Desenvoldedor Frontend Web!
 <br>
   
-- 🏛  Estou no 2º Período da Graduação em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL)
-- 👨‍💻 Estudo **Desenvolvimento Frontend Web** (SENAI) 
+- 🏛  Estou no 2º Período do curso: Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL)
+- 👨‍💻 Me formando em **Desenvolvimento Frontend Web** (Março, 2023 - SENAI SP) 
 - 🚀 Sou apaixonado por **Desenvolver** e por *aprender* sobre o universo da **Tecnologia**
+
+ <div align="center">
+  <a href="https://github.com/weybruno">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weybruno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weybruno&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+ 
+<div align="center" valign="top"><br>
 
   
 ### 🛠 Tech Stack
