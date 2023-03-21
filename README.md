@@ -4,7 +4,7 @@
 - 🏛  Estou no 2º Período do curso: Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL)
 - 👨‍💻 Me formando em **Desenvolvimento Frontend Web** (Março, 2023 - SENAI SP) 
 - 🚀 Sou apaixonado por **Desenvolver** e por *aprender* sobre o universo da **Tecnologia**
-
+<br>
  <div align="center">
   <a href="https://github.com/weybruno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weybruno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
