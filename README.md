@@ -1,8 +1,8 @@
 ## Opa, eu sou o Bruno, Desenvoldedor Frontend Web!
 <br>
   
-- 🏛  Estou Graduando em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL)
-- 👨‍💻 Me formo no curso de **Desenvolvimento Frontend Web** no Senai em Março, 2023.
+- 🏛  Estou Graduando em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL).
+- 👨‍💻 Formando no curso de **Desenvolvimento Frontend Web** (Senai SP - Março/2023).
 - 🧙 Sou Aluno do Curso: DevQuest, de Programação FrontEnd Web.
 - 🚀 Me amarro em **Desenvolver** e por *aprender* sobre o universo da **Tecnologia**
 <br>
