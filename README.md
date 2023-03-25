@@ -2,8 +2,9 @@
 <br>
   
 - 🏛  Estou Graduando em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL)
-- 👨‍💻 Me formando em **Desenvolvimento Frontend Web** (Março, 2023 - SENAI SP) 
-- 🚀 Sou apaixonado por **Desenvolver** e por *aprender* sobre o universo da **Tecnologia**
+- 👨‍💻 Me formo no curso de **Desenvolvimento Frontend Web** no Senai em Março, 2023.
+- 🧙 Sou Aluno do Curso: DevQuest, de Programação FrontEnd Web.
+- 🚀 Me amarro em **Desenvolver** e por *aprender* sobre o universo da **Tecnologia**
 <br>
  <div align="center">
   <a href="https://github.com/weybruno">
