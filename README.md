@@ -1,4 +1,4 @@
-## Opa, eu sou o Bruno, Desenvoldedor Frontend Web!
+## Opa, eu sou o Bruno, Desenvolvedor Frontend Web!
 <br>
   
 - 🏛  Estou Graduando em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL).
