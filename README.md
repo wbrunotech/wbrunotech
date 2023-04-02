@@ -1,10 +1,10 @@
 ## Opa, eu sou o Bruno, Desenvolvedor Frontend Web!
 <br>
-  
-- 🏛  Estou Graduando em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL).
-- 👨‍💻 Formando no curso de **Desenvolvimento Frontend Web** (Senai SP - Março/2023).
-- 🧙 Sou Aluno do Curso: DevQuest, de Programação FrontEnd Web.
-- 🚀 Me amarro em **Desenvolver** e por *aprender* sobre o universo da **Tecnologia**
+
+- 👨‍💻 Sou **Desenvolvedor Frontend Web** (Senai SP).  
+- 🏛  Aluno da Graduação em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL).
+- 🧙 Aluno do Curso: DevQuest, de Desenvolvimento FrontEnd Web.
+- 🚀 Sou apaixonado por criar códigos, **Desenvolver ideias** e também por *aprender* mais sobre o universo da **Tecnologia**!!
 <br>
  <div align="center">
   <a href="https://github.com/weybruno">
@@ -32,7 +32,7 @@
  
 </div>
 
-### Minhas redes sociais:
+### Acesse minhas redes sociais:
 
 <a href="https://www.instagram.com/wbruno.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:weydson.brunos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
