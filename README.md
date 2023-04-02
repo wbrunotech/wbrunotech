@@ -1,4 +1,4 @@
-## Opa, eu sou o Bruno, Desenvolvedor Frontend Web!
+## Opa, eu sou o Bruno, tenho 26 anos de idade e moro no Recife! 
 <br>
 
 - 👨‍💻 Sou **Desenvolvedor Frontend Web** (Senai SP).  
