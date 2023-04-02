@@ -3,7 +3,7 @@
 
 - 👨‍💻 Sou **Desenvolvedor Frontend Web** (Senai SP).  
 - 🏛  Aluno da Graduação em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL).
-- 🧙 Aluno do Curso: DevQuest, de Desenvolvimento FrontEnd Web.
+- 🧙 Aluno do Curso: DevQuest [Desenvolvimento FrontEnd Web].
 - 🚀 Sou apaixonado por criar códigos, **Desenvolver ideias** e também por *aprender* mais sobre o universo da **Tecnologia**!!
 <br>
  <div align="center">
