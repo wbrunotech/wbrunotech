@@ -1,4 +1,4 @@
-## Opaa, eu sou o Bruno, tenho 26 anos e moro em Recife! 
+## Opa, blz? Eu sou o Bruno!!
 <br>
 
 - 👨‍💻 Sou **Desenvolvedor Frontend Web** (Senai SP).  
