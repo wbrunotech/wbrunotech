@@ -1,4 +1,4 @@
-## Olá, eu me chamo Bruno, tenho 26 anos e moro na cidade do Recife! 
+## Opaa, eu sou o Bruno, tenho 26 anos e moro em Recife! 
 <br>
 
 - 👨‍💻 Sou **Desenvolvedor Frontend Web** (Senai SP).  
