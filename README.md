@@ -4,7 +4,7 @@
 - 👨‍💻 **Desenvolvedor Frontend Web** (Formado pelo Senai SP).  
 - 🏛  Aluno da Graduação em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL).
 - 🧙 Aluno do Curso: DevQuest [Desenvolvimento FrontEnd Web].
-- 🚀 Gosto da oportunidade que a **tecnologia** oferece às pessoas, e da proposta de **facilitar** a vida humana.
+- 🚀 Gosto da oportunidade que a **tecnologia** oferece às pessoas, e da proposta de **facilitar a vida humana**.
 <br>
  <div align="center">
   <a href="https://github.com/weybruno">
