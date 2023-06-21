@@ -1,4 +1,4 @@
-## Opaa, blz? Seja bem vindo(a)!!
+<h1>Opaa, blz? Seja bem vindo(a)!!</h1>
 <br>
 
 - 👨‍💻 **Desenvolvedor Frontend Web** (Formado pelo Senai de São Paulo).  
@@ -14,7 +14,7 @@
  
 <div align="center" valign="top">
   
-### 🛠 Tech Stack
+🛠<h2>Tech Stack</h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
@@ -31,7 +31,7 @@
 
 </div>
 
-### Contato:
+<h3>Contato:</h3>
 
 <a href="https://www.linkedin.com/in/weydsonbruno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><a href = "mailto:weydson.brunos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.instagram.com/wbrunotech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
@@ -39,7 +39,7 @@
 </div><br>
 
 <div align="center">
-### Contador de visitas:
+<h4>Contador de visitas:</h4>
   
   ![Visitor Count](https://profile-counter.glitch.me/weybruno/count.svg)
   </div>
