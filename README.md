@@ -39,7 +39,7 @@
 </div><br>
 
 <div align="center">
-### Contador de visitas
+### Contador de visitas:
   
   ![Visitor Count](https://profile-counter.glitch.me/weybruno/count.svg)
   </div>
