@@ -1,10 +1,10 @@
 ## Opa, blz? Eu sou o Bruno!!
 <br>
 
-- 👨‍💻 **Desenvolvedor Frontend Web** (Formado pelo Senai SP).  
-- 🏛  Aluno da Graduação em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL).
-- 🧙 Aluno do Curso: DevQuest [Desenvolvimento FrontEnd Web].
-- 🚀 Gosto da oportunidade que a **tecnologia** oferece às pessoas, e da proposta de **facilitar a vida humana**.
+- 👨‍💻 **Desenvolvedor Frontend Web** (Formado pelo Senai de São Paulo).  
+- 🏛  Graduando em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL).
+- 🧙 Aluno dos Cursos de Desenvolvimento FrontEnd Web: DevQuest e DevMedia.
+- 🚀 Gosto da oportunidade que a **tecnologia** oferece, e da proposta de **facilitar a vida das pessoas**.
 <br>
  <div align="center">
   <a href="https://github.com/weybruno">
