@@ -1,10 +1,12 @@
-<h1>Opaa, blz? Seja bem vindo(a)!!</h1>
+<div align="center">
+<h1>Fala brother, blz? Seja bem vindo(a) ao meu Perfil!!</h1>
+</div>
 <br>
 
-- 👨‍💻 **Desenvolvedor Frontend Web** (Formado pelo Senai de São Paulo).  
+- 👨‍💻 **Desenvolvedor Frontend Web** (Senai - São Paulo).  
 - 🏛  Graduando em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL).
 - 🧙 Aluno dos Cursos de Desenvolvimento FrontEnd Web: DevQuest e DevMedia.
-- 🚀 Gosto da oportunidade que a **tecnologia** oferece, e da proposta de **facilitar a vida das pessoas**.
+- 🚀 A **Tecnologia** me trás a oportunidade de **facilitar a vida das pessoas**, é isso que me move.
 <br>
  <div align="center">
   <a href="https://github.com/weybruno">
