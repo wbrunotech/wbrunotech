@@ -1,4 +1,4 @@
-## Opaa, blz? Seja Bem Vindo(a)!!
+## Opaa, blz? Seja bem vindo(a)!!
 <br>
 
 - 👨‍💻 **Desenvolvedor Frontend Web** (Formado pelo Senai de São Paulo).  
