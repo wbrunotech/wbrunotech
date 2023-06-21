@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Fala brother, blz? Seja bem vindo(a) ao meu Perfil!!</h1>
+<h2>Opa, blz? Seja bem vindo(a) ao meu Perfil!</h2>
 </div>
 <br>
 
@@ -16,7 +16,7 @@
  
 <div align="center" valign="top">
   
-🛠<h2>Tech Stack</h2>
+🛠<h3>Tech Stack</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
@@ -41,7 +41,7 @@
 </div><br>
 
 <div align="center">
-<h4>Contador de visitas:</h4>
+<h3>Contador de visitas:</h3>
   
   ![Visitor Count](https://profile-counter.glitch.me/weybruno/count.svg)
   </div>
