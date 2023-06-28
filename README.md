@@ -1,8 +1,6 @@
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,29,2,5,30&height=200&section=header&text=Weydson%20Bruno&fontSize=60&animation=fadeIn)
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+me+chamo+Weydson+Bruno;Bem-vindo(a)+ao+meu+reposit%C3%B3rio)](https://git.io/typing-svg)
-</div>
 <br>
 - 👨‍💻 **Desenvolvedor Frontend Web** (Senai - São Paulo).  
 - 🏛  Graduando em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL).
