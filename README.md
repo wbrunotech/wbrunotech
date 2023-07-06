@@ -7,12 +7,6 @@
 - 🧙 Aluno dos Cursos de Desenvolvimento FrontEnd Web: DevQuest e DevMedia.
 - 🚀 A **Tecnologia** me trás a oportunidade de **facilitar a vida das pessoas**, é isso que me move.
 <br>
- <div align="center">
-  <a href="https://github.com/weybruno">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=weybruno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"](https://github-readme-stats.vercel.app/api?username=weybruno88&show_icons=true&theme=dracula)/>
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=weybruno&layout=compact&langs_count=6&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=weybruno88&layout=compact&theme=dracula)"/>
- 
-<div align="center" valign="top">
   
 🛠<h3>Tech Stack</h3>
 
