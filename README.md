@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C++Bem-vindo(a)+ao+meu+reposit%C3%B3rio;Conheça+meus+projetos:;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C++Bem-vindo(a)+ao+meu+GitHub;Conheça+meus+projetos:;)](https://git.io/typing-svg)
 <br>
 - 👨‍💻 **Desenvolvedor Frontend Web** (Senai - São Paulo).  
 - 🏛  Graduando em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL).
