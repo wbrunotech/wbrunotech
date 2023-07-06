@@ -21,7 +21,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/weybruno/count.svg)
 </div>
 
-</div>
 <div align="center">
 <h3>Contatos:</h3>
 </div>
