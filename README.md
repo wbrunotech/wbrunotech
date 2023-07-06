@@ -7,8 +7,7 @@
 - 🧙 Aluno dos Cursos de Desenvolvimento FrontEnd Web: DevQuest e DevMedia.
 - 🚀 A **Tecnologia** me trás a oportunidade de **facilitar a vida das pessoas**, é isso que me move.
 <br>
-
-🛠<h3>Tech Stack</h3>
+<h3>Tech Stack</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
