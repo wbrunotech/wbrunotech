@@ -17,7 +17,6 @@
 
 <div align="center">
 <h3>Contador de visitas:</h3>
-
 ![Visitor Count](https://profile-counter.glitch.me/weybruno/count.svg)
 </div>
 
