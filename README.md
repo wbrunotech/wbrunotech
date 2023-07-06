@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C++Bem-vindo(a)+ao+meu+reposit%C3%B3rio;Fique+à+vontade+para+conhecer+meus+projetos;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C++Bem-vindo(a)+ao+meu+reposit%C3%B3rio;Conheça+meus+projetos;)](https://git.io/typing-svg)
 <br>
 - 👨‍💻 **Desenvolvedor Frontend Web** (Senai - São Paulo).  
 - 🏛  Graduando em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL).
 - 🧙 Aluno dos Cursos de Desenvolvimento FrontEnd Web: DevQuest e DevMedia.
-- 🚀 A **Tecnologia** me trás a oportunidade de **facilitar a vida das pessoas**, é isso que me move.
+- 🚀 A **Tecnologia** me proporciona a **oportunidade** de tornar a vida das pessoas mais fácil, e é exatamente isso que me motiva.
 <br>
 <div align="center">
 
