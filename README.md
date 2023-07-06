@@ -8,9 +8,8 @@
 - 🚀 A **Tecnologia** me trás a oportunidade de **facilitar a vida das pessoas**, é isso que me move.
 <br>
 
-<div align=center>  
 🛠<h3>Tech Stack</h3>
-</div>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
