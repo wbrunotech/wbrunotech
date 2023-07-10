@@ -25,7 +25,7 @@
 
 
 <div align="center">
-<h3>Contador de visitas:</h3>
+<h4>Contador de visitas:</h4>
   
 ![Visitor Count](https://profile-counter.glitch.me/wbrunotech/count.svg)
 </div>
