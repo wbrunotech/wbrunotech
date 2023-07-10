@@ -17,6 +17,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <img width="45%" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=316tetnlek3uvcjihzpmibll2ara">
+</div>
 
 <div align="left">
 <h3>Contador de visitas:</h3>
@@ -28,6 +29,6 @@
 <h3>Contatos:</h3>
 </div>
 
-<div align="center">
+<div align="right">
 <a href="https://www.linkedin.com/in/weydsonbruno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><a href = "mailto:weydson.brunos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.instagram.com/wbrunotech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
