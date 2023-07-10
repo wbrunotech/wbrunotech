@@ -15,10 +15,6 @@
 
 ![Snake animation](https://github.com/weybruno/weybruno/blob/output/github-contribution-grid-snake.svg)
 
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img width="45%" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=316tetnlek3uvcjihzpmibll2ara">
-</div>
-
 <div align="left">
 <h3>Contador de visitas:</h3>
   
