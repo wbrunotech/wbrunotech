@@ -7,10 +7,10 @@
 <br>
 <div align="center">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=weybruno&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weybruno&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weybruno&theme=nord_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wbrunotech&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wbrunotech&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wbrunotech&theme=nord_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weybruno&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=weybruno&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wbrunotech&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=wbrunotech&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
 ![Snake animation](https://github.com/weybruno/weybruno/blob/output/github-contribution-grid-snake.svg)
@@ -18,7 +18,7 @@
 <div align="center">
 <h3>Contador de visitas:</h3>
   
-![Visitor Count](https://profile-counter.glitch.me/weybruno/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/wbrunotech/count.svg)
 </div>
 
 <div align="center">
