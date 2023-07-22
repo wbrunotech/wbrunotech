@@ -3,7 +3,7 @@
 - 👨‍💻 **Desenvolvedor Frontend Web** (Senai - São Paulo).  
 - 🏛  Cursando o 3º Período de Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL).
 - 🧙 Aluno dos Cursos de Desenvolvimento FrontEnd Web: DevQuest e DevMedia.
-- 🚀 A **Tecnologia** me proporciona a **oportunidade** de tornar a vida das pessoas mais fácil, e é exatamente isso que me motiva.
+- 🚀 A **Tecnologia** me proporciona a **oportunidade** de tornar a vida das pessoas mais fácil, é isso que me motiva.
 <br>
 <div align="center">
 
