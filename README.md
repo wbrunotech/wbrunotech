@@ -13,7 +13,7 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wbrunotech&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=wbrunotech&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
-![Snake animation](https://github.com/weybruno/weybruno/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/weybruno/wbrunotech/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 <h3>Contatos:</h3>
