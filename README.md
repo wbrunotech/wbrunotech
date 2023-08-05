@@ -2,7 +2,7 @@
 <br>
 - 👨‍💻 Desenvolvedor Frontend Web (Senai - SP).
 - 🏛  Cursando o 3º Período em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL).
-- 🧙 Aluno de Desenvolvimento FrontEnd Web: DevQuest e DevMedia.
+- 🧙 Aluno dos cursos de Desenvolvimento FrontEnd: DevQuest e DevMedia.
 - 🚀 Tecnologia para facilitar vidas é minha motivação!
 <br>
 <div align="center">
