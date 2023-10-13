@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C++Bem-vindo+(a)+ao+meu+GitHub;Conheça+meus+projetos!;)](https://git.io/typing-svg)
 <br>
-- 👨‍💻 Desenvolvedor Frontend Web (Senai).
-- 🏛  Cursando o 3º Período em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL).
-- 🧙 Aluno dos cursos de programação: DevQuest e DevMedia.
+- 👨‍💻 Desenvolvedor Frontend Web (Senai)
+- 🧙 Aluno dos cursos de programação: DevQuest e DevMedia
+- 🏛  Cursando o 3º Período em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL)
 - 🎆 O único modo de fazer um excelente trabalho é amar aquilo que você faz. - Steve Jobs
 <br>
 <div align="center">
