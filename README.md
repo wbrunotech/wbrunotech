@@ -3,7 +3,7 @@
 - 👨‍💻 Desenvolvedor Frontend Web (Senai)
 - 🧙 Aluno dos cursos de programação: DevQuest e DevMedia
 - 🏛  Cursando o 3º Período em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL)
-- 🎆 O único modo de fazer um excelente trabalho é amar aquilo que você faz. - Steve Jobs
+- 🎆 O único modo de fazer um excelente trabalho é amando aquilo que você faz. - Steve Jobs
 <br>
 <div align="center">
 
