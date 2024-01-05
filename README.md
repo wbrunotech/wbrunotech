@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C++Seja+muito+bem-vindo(a)!;Fique+à+vontade+para+conhecer+meus+projetos!;)](https://git.io/typing-svg)
 <br>
 - 👨‍💻 Desenvolvedor FrontEnd
-- 🧙 Formado no Senai
-- 🏛  Cursando o 4º Período em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL)
-- 🎆 O único modo de fazer um excelente trabalho é amando aquilo que você faz. - Steve Jobs
 <br>
 <div align="center">
 
