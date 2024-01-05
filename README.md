@@ -1,7 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C++Seja+muito+bem-vindo(a)!;Fique+à+vontade+para+conhecer+meus+projetos!;)](https://git.io/typing-svg)
-<br>
-- 👨‍💻 Desenvolvedor FrontEnd
-<br>
 <div align="center">
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wbrunotech&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wbrunotech&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wbrunotech&theme=nord_dark) |
