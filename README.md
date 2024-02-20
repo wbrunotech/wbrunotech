@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&center=true&vCenter=true&width=1000&lines=Op%C3%A,1%2C++Chega+mais!;Conheça+meus+projetos!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&center=true&vCenter=true&width=1000&lines=Op%C3%A1%2C++Chega+mais!;Conheça+meus+projetos!;)](https://git.io/typing-svg)
 <div align="center">
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wbrunotech&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wbrunotech&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wbrunotech&theme=nord_dark) |
